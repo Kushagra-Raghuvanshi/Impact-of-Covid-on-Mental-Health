@@ -1,0 +1,10 @@
+Project : Impact of Covid 19 on Mental Health - Study on effects of the Pandemic on stress,
+        anxiety and depression levels and an insight on thier subsequent corellation with
+        Impact on Drug Use and Suicidal Ideation
+
+# Data read and manipulation
+numpy
+pandas
+
+# Graphics and data visualization
+matplotlib
