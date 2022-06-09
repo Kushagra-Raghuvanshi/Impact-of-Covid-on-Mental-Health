@@ -31,19 +31,32 @@ subsequent correlation with Impact on Drug Use and Suicidal Ideation
 Instructions
 
 1) Download the following files
+
 NOTE: All Datasets (Proccessed) are available available in repository and DONT HAVE TO BE
 DOWNLOADED FROM THE URLs
+
 • pulse survey dataset.csv
+
 • Table-1.csv
+
 • march.csv
+
 • may.csv
+
 • main.py
+
 • disorder analysis bystate.py
+
 • disorder visualisation complete.py
+
 • stress anxiety usa.py
+
 • drug survey visualisation.py
+
 • correlation and computations.py
+
 • requirements.txt
+
 
 2) Put all file in a SINGLE folder named as per you convenience
 
@@ -65,8 +78,11 @@ next one pops up
 
 NOTE 4: How to interpret the Correlation Graphs - Since we are taking ratio there is a differ-
 ence between usual correlation graphs and Our version
-Our Version:
-Constant (parallel to x axis) ⇒ +ve Correlation
-Graphing going up or down (By a small f actor) ⇒ still almost + ve Correlation
-Graphing going up or down (By a major f actor) ⇒ −ve Correlation
 
+Our Version:
+
+Constant (parallel to x axis) ⇒ +ve Correlation
+
+Graphing going up or down (By a small f actor) ⇒ still almost + ve Correlation
+
+Graphing going up or down (By a major f actor) ⇒ −ve Correlation
