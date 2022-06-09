@@ -28,27 +28,45 @@ subsequent correlation with Impact on Drug Use and Suicidal Ideation
 
 ## Run Locally
 
-Clone the project
+Instructions
 
-```bash
-  git clone https://link-to-project
-```
+1) Download the following files
+NOTE: All Datasets (Proccessed) are available available in repository and DONT HAVE TO BE
+DOWNLOADED FROM THE URLs
+• pulse survey dataset.csv
+• Table-1.csv
+• march.csv
+• may.csv
+• main.py
+• disorder analysis bystate.py
+• disorder visualisation complete.py
+• stress anxiety usa.py
+• drug survey visualisation.py
+• correlation and computations.py
+• requirements.txt
 
-Go to the project directory
+2) Put all file in a SINGLE folder named as per you convenience
 
-```bash
-  cd my-project
-```
+3) Open Pycharm after putting the folder inside another folder set up with pycharm already or instead open this
+folder by making a new Pycharm project by setting this folder as source root directory
 
-Install dependencies
+4) Install all Python libraries mentioned in requirements.txt
 
-```bash
-  npm install
-```
+5) Run the python file main.py to observe all plots
 
-Start the server
+NOTE 1: The user might have to upgrade pip to the latest version (greater than or equal to version 21.3.1) if any
+error pops up.
 
-```bash
-  npm run start
-```
+NOTE 2: To ensure the plots are represented in the correct order run main.py by clicking on the green ar-
+row Run ’main’ instead of right clicking and selecting Run File in Python Console
+
+NOTE 3: Only one plot is shown at a time. To observe all plots the user is required to close each plot so the
+next one pops up
+
+NOTE 4: How to interpret the Correlation Graphs - Since we are taking ratio there is a differ-
+ence between usual correlation graphs and Our version
+Our Version:
+Constant (parallel to x axis) ⇒ +ve Correlation
+Graphing going up or down (By a small f actor) ⇒ still almost + ve Correlation
+Graphing going up or down (By a major f actor) ⇒ −ve Correlation
 
